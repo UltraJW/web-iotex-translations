@@ -2,16 +2,16 @@ about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
 charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
+charity.more-info: 'IoTeX Charity Program'에 대한 추가 정보
+charity.question: IoTeX에 대해 어떻게 알게 되었습니까? 왜 IoTeX프로젝트에 관심을 갖게 되었습니까?
 charity.share-message: Share Your Act of Kindness!
 charity.to: To
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  당신의 선행에 깊은 감사를 표합니다!
+  감사의 선물로 16,000포인트를 드립니다. 또한, 당신의 선행은 IoteX홈페이지 내 명예의 전당에 등재될 것입니다.
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
+charity.tweet.summary.title: 당신은 IoTex 명예의 전당에 등재되었습니다.
 claim.btn: CLAIM YOUR POINTS
 contact.btn: 문의처
 contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 통해 귀하의 질문에 답변해 드리겠습니다
@@ -31,15 +31,14 @@ hall-of-fame.badge-section.unicorn.desc: >
   Foundation to help fund blockchain research.
 
 
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
+  더 많은 정보를 원하시면 우리의 공식 Telegram 그룹에 접속하여 고정메시지를 확인하십시오.<a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a>
 
 
   Check more detail at <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   1st Charity Program Update</a>.
-hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+hall-of-fame.search.label: 귀하의 hashid 또는 아이디로 검색하십시오
 hall-of-fame.thank-you.message: >
   Crowdsourcing as a way to fund a specific cause for a charity is not new, but
   IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
@@ -47,7 +46,6 @@ hall-of-fame.thank-you.message: >
   Program, IoTeX will continue selecting a few charity programs that align with
   IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
   IoTeX’s Community Reward Program.
-
 
   IoTeX believes in growing together with the community and connecting the
   physical world block by block. It’s a very ambitious goal but it can be
@@ -150,19 +148,19 @@ home.zhefeng.desc.keep: >-
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
 stonevan.twitter: >-
-  I just got 100 free points from IoTeX by celebrating their first Testnet
-  Preview release. @iotex_io Come and get yours!
+  IoTeX의 첫번째 Testnet Preview 릴리스를 기념하여 100개의 포인트를 선물 받았어요!
+  당신도 @iotex_io에 접속해서 선물을 받아가세요.
 subscribe.btn: 구독
 subscribe.desc: 당사의 최근 진척상황 및 이벤트를 알아보십시오.
 subscribe.title: 항상 최신 정보를 받으십시오
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
+testnet-preview.home-title: Testnet Preview (StoneVan)가 실시될 예정입니다.
+testnet-preview.released-event-title: 우리의 Testnet Preview가 실시되었습니다!
+testnet-preview.released-title: Testnet Preview가 실시되었습니다.
 topbar.blog: 블로그
 topbar.careers: 인재채용
 topbar.charity: 자선
 topbar.faq: FAQ
 topbar.home: 홈
 topbar.white-paper: 백서
-whitepaper.button.next: NEXT
-whitepaper.button.previous: PREVIOUS
+whitepaper.button.next: 다음
+whitepaper.button.previous: 이전
